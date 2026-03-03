@@ -1,7 +1,7 @@
 # Olá, eu sou a Jacqueline! 👋
 
 ### 🤖 Estudante de Inteligência Artificial na FIAP | Entusiasta de Dados & Cloud
-Graduanda em **IA na FIAP**, focada em aprender e aplicar conceitos de **Analytics Engineering** e **Cloud**. Unindo meus estudos na faculdade com certificações da **Wharton, IBM e Google**, busco transformar o conhecimento teórico em soluções práticas de automação e dados.
+Graduanda em **IA na FIAP**, focada em aprender e aplicar conceitos de **Analytics Engineering** e **Cloud**. Unindo meus estudos na faculdade com certificações da **Wharton, IBM e Google**.
 
 ---
 
