@@ -8,7 +8,7 @@ Graduanda em **IA na FIAP**, focada em aprender e aplicar conceitos de **Analyti
 ### 🛠️ Conhecimentos em construção:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,sklearn,gcp,linux,bash,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,gcp,linux,bash,git&theme=dark" />
 </p>
 
 ---
