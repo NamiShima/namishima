@@ -2,14 +2,14 @@
 
 ### 🤖 Estudante de IA (FIAP) | Machine Learning & Analytics Engineering
 
-Construo projetos aplicados de ponta a ponta, de NLP e visão computacional a integração de hardware (IoT), unindo rigor técnico com aplicação prática.
+Construo projetos aplicados de ponta a ponta, de NLP e visão computacional a integração de hardware (IoT), unindo rigor técnico com aplicação prática. 
 
 ---
 
 ### 🛠️ Stack técnica
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,gcp,git,react,nodejs,express,firebase,fastapi,docker,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,gcp,git,react,fastapi,cpp&theme=dark" />
 </p>
 
 ---
