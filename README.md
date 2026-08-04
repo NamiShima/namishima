@@ -1,4 +1,4 @@
-# Olá, eu sou a Jacqueline 👋
+# Olá, eu sou a Jacqueline!
 
 ### 🤖 Estudante de IA (FIAP) | Machine Learning & Analytics Engineering
 
