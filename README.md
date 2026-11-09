@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="./foto.png" alt="Foto de perfil" width="320" />
 
 # Hi there! 👋
 
