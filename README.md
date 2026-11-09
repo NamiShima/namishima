@@ -1,20 +1,9 @@
-# Olá, eu sou a Jacqueline!
+<div align="center">
 
-### 🤖 Estudante de IA (FIAP) | Machine Learning & Analytics Engineering
+<img src="./foto.png" alt="Foto de perfil" width="320" />
 
-Construo projetos aplicados de ponta a ponta, de NLP e visão computacional a integração de hardware (IoT), unindo rigor técnico com aplicação prática. 
+# Hi there! 👋
 
----
+I’m a **UX Designer** and **Web Developer** who loves to create incredible digital products and provide an amazing experience for all users. ☕
 
-### 🛠️ Stack técnica
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,gcp,git,react,fastapi,cpp&theme=dark" />
-</p>
-
----
-
-### 🎯 Contato
-
-- 💼 **LinkedIn:** [Jacqueline Nanami](https://www.linkedin.com/in/jacqueline-nanami-8039b938b/)
-- 📧 **E-mail:** nanasshima@gmail.com
+</div>
